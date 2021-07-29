@@ -25,9 +25,9 @@ function addNumbers() {
   // Print to the console the value of the element in the second index in the nums array
   console.log(nums[1])
 
-  // Print to the console the string with the values num1 and num2 interpolated
+  // Print to the console the string with the values num1 and num2 interpolated if num1 and num2 existed
   console.log(`The first number is ${num1} and the second number is ${num2}!`)
 
-  // When the function is called, it will return the value of the variable sum
+  // When the function is called, it will return the value of the variable 'sum'
   return sum
 }
